@@ -1,5 +1,10 @@
 def my_hash
-  your_hash = {"band" =>
+  your_hash = {
+    "band" => "cocteau twins",
+    "drink" => "mate",
+    "vegetable" => "cauliflower"
+  }
+  
 
   
 end
