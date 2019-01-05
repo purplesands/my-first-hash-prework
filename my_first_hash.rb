@@ -4,9 +4,6 @@ def my_hash
     "drink" => "mate",
     "vegetable" => "cauliflower"
   }
-  
-
-  
 end
 
 
